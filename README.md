@@ -8,4 +8,3 @@ You can find the Kubernetes manifests at https://github.com/kostis-codefresh/pre
 
 Read the full blog at https://codefresh.io/blog/creating-temporary-preview-environments-based-pull-requests-argo-cd-codefresh/
 
-# useless update
